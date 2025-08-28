@@ -30,8 +30,12 @@ Balanced the dataset using scale_pos_weight = 7.9 based on class distribution.
 Used XGBoostClassifier for training.
 Performed hyperparameter tuning using GridSearchCV to find optimal parameters.
 Achieved accuracy > 88% and strong ROC AUC performance.
-📈 Evaluation
+📈 
+# Evaluation
 Metrics used:
 Accuracy
 ROC Curve & AUC
 Confusion Matrix
+📬 
+# Contact
+For questions or suggestions, feel free to reach out to S. Kirubakaran.
